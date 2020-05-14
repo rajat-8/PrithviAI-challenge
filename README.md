@@ -15,3 +15,7 @@ The features are defined as follows:
 
 ## Accuracy
 ![ACCURACY](accuracy.png)
+
+## Model
+
+The size of the model is too big about 1.45GB so I have uploaded in the drive. The link is [here](https://drive.google.com/open?id=1CbySoIAL07YQOg9xcdFoLYM-a3IT4fjz)
